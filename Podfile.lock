@@ -1,0 +1,25 @@
+PODS:
+  - AFNetworking (1.1.0)
+  - JSONKit (1.4)
+  - Kiwi (2.0.5)
+  - ObjectiveRecord (1.1.2):
+    - ObjectiveSugar
+  - ObjectiveSugar (0.6.2)
+  - Reachability (3.0.0)
+
+DEPENDENCIES:
+  - AFNetworking (= 1.1.0)
+  - JSONKit (= 1.4)
+  - Kiwi (= 2.0.5)
+  - ObjectiveRecord (= 1.1.2)
+  - Reachability (= 3.0.0)
+
+SPEC CHECKSUMS:
+  AFNetworking: 761a418233d280c1e0580bcb76ff9cb4c3073d17
+  JSONKit: 0e3367114e2799047082628156e09893d8268f91
+  Kiwi: 89ade77eb49c889178cb2779e02514a7b9b9449e
+  ObjectiveRecord: 346a5da3822a6d3d889af5f45c44059edda4c936
+  ObjectiveSugar: 50bcd329b18ab6da6457e1bf55be71acb7c39d44
+  Reachability: 500bd76bf6cd8ff2c6fb715fc5f44ef6e4c024f2
+
+COCOAPODS: 0.18.1
