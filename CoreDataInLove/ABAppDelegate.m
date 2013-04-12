@@ -44,7 +44,7 @@
 - (void)applicationWillTerminate:(UIApplication *)application
 {
     // new school
-    // [CoreDataManager instance] saveContext];
+    [[CoreDataManager instance] saveContext];
 
     // old school
     //NSError *error = nil;

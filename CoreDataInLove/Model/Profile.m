@@ -1,9 +1,9 @@
 //
 //  Profile.m
-//  Pods
+//  CoreDataInLove
 //
 //  Created by Abraham Barrera on 11-04-13.
-//
+//  Copyright (c) 2013 Abraham. All rights reserved.
 //
 
 #import "Profile.h"

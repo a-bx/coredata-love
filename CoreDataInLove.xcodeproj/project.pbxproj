@@ -26,10 +26,10 @@
 		6A26DA901716E52400533CE8 /* ABCoreDataSpec.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A26DA8F1716E52400533CE8 /* ABCoreDataSpec.m */; };
 		6A26DAA417173F4E00533CE8 /* CoreDataInLove.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6A26DAA217173F4E00533CE8 /* CoreDataInLove.xcdatamodeld */; };
 		6A67424B1717437E00F55A68 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6A67424A1717437E00F55A68 /* CoreData.framework */; };
-		6A6742561717546300F55A68 /* _Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A67424F1717546300F55A68 /* _Person.m */; };
-		6A6742571717546300F55A68 /* _Profile.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A6742511717546300F55A68 /* _Profile.m */; };
-		6A6742581717546300F55A68 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A6742531717546300F55A68 /* Person.m */; };
-		6A6742591717546300F55A68 /* Profile.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A6742551717546300F55A68 /* Profile.m */; };
+		6A67426A1717791400F55A68 /* _Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A6742631717791400F55A68 /* _Person.m */; };
+		6A67426B1717791400F55A68 /* _Profile.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A6742651717791400F55A68 /* _Profile.m */; };
+		6A67426C1717791400F55A68 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A6742671717791400F55A68 /* Person.m */; };
+		6A67426D1717791400F55A68 /* Profile.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A6742691717791400F55A68 /* Profile.m */; };
 		9C43361AF3484F25A98AE037 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6035BD6DCE854D199DC21860 /* libPods.a */; };
 		B7DE520626574E009755FDBC /* libPods-CoreDataInLoveTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 166EC68A678B4EED974C5763 /* libPods-CoreDataInLoveTests.a */; };
 /* End PBXBuildFile section */
@@ -71,14 +71,14 @@
 		6A26DA8F1716E52400533CE8 /* ABCoreDataSpec.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ABCoreDataSpec.m; sourceTree = "<group>"; };
 		6A26DAA317173F4E00533CE8 /* CoreDataInLove.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreDataInLove.xcdatamodel; sourceTree = "<group>"; };
 		6A67424A1717437E00F55A68 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
-		6A67424E1717546300F55A68 /* _Person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = _Person.h; sourceTree = "<group>"; };
-		6A67424F1717546300F55A68 /* _Person.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = _Person.m; sourceTree = "<group>"; };
-		6A6742501717546300F55A68 /* _Profile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = _Profile.h; sourceTree = "<group>"; };
-		6A6742511717546300F55A68 /* _Profile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = _Profile.m; sourceTree = "<group>"; };
-		6A6742521717546300F55A68 /* Person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
-		6A6742531717546300F55A68 /* Person.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
-		6A6742541717546300F55A68 /* Profile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Profile.h; sourceTree = "<group>"; };
-		6A6742551717546300F55A68 /* Profile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Profile.m; sourceTree = "<group>"; };
+		6A6742621717791400F55A68 /* _Person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = _Person.h; sourceTree = "<group>"; };
+		6A6742631717791400F55A68 /* _Person.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = _Person.m; sourceTree = "<group>"; };
+		6A6742641717791400F55A68 /* _Profile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = _Profile.h; sourceTree = "<group>"; };
+		6A6742651717791400F55A68 /* _Profile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = _Profile.m; sourceTree = "<group>"; };
+		6A6742661717791400F55A68 /* Person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
+		6A6742671717791400F55A68 /* Person.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
+		6A6742681717791400F55A68 /* Profile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Profile.h; sourceTree = "<group>"; };
+		6A6742691717791400F55A68 /* Profile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Profile.m; sourceTree = "<group>"; };
 		6D439C582456471BB7E3C343 /* Pods-CoreDataInLoveTests.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CoreDataInLoveTests.xcconfig"; path = "Pods/Pods-CoreDataInLoveTests.xcconfig"; sourceTree = SOURCE_ROOT; };
 		8BC670D716454B159B872910 /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
@@ -219,7 +219,7 @@
 		6A26DA9A17173F2500533CE8 /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				6A67424C1717546300F55A68 /* NewModel */,
+				6A6742601717791400F55A68 /* NewModel */,
 				6A26DAA117173F4E00533CE8 /* Model */,
 			);
 			path = Model;
@@ -233,26 +233,26 @@
 			name = Model;
 			sourceTree = "<group>";
 		};
-		6A67424C1717546300F55A68 /* NewModel */ = {
+		6A6742601717791400F55A68 /* NewModel */ = {
 			isa = PBXGroup;
 			children = (
-				6A67424D1717546300F55A68 /* Machine */,
-				6A6742521717546300F55A68 /* Person.h */,
-				6A6742531717546300F55A68 /* Person.m */,
-				6A6742541717546300F55A68 /* Profile.h */,
-				6A6742551717546300F55A68 /* Profile.m */,
+				6A6742611717791400F55A68 /* Machine */,
+				6A6742661717791400F55A68 /* Person.h */,
+				6A6742671717791400F55A68 /* Person.m */,
+				6A6742681717791400F55A68 /* Profile.h */,
+				6A6742691717791400F55A68 /* Profile.m */,
 			);
 			name = NewModel;
 			path = CoreDataInLove/NewModel;
 			sourceTree = SOURCE_ROOT;
 		};
-		6A67424D1717546300F55A68 /* Machine */ = {
+		6A6742611717791400F55A68 /* Machine */ = {
 			isa = PBXGroup;
 			children = (
-				6A67424E1717546300F55A68 /* _Person.h */,
-				6A67424F1717546300F55A68 /* _Person.m */,
-				6A6742501717546300F55A68 /* _Profile.h */,
-				6A6742511717546300F55A68 /* _Profile.m */,
+				6A6742621717791400F55A68 /* _Person.h */,
+				6A6742631717791400F55A68 /* _Person.m */,
+				6A6742641717791400F55A68 /* _Profile.h */,
+				6A6742651717791400F55A68 /* _Profile.m */,
 			);
 			path = Machine;
 			sourceTree = "<group>";
@@ -433,10 +433,10 @@
 				6A26DA621716E22E00533CE8 /* ABAppDelegate.m in Sources */,
 				6A26DA6B1716E22E00533CE8 /* ABViewController.m in Sources */,
 				6A26DAA417173F4E00533CE8 /* CoreDataInLove.xcdatamodeld in Sources */,
-				6A6742561717546300F55A68 /* _Person.m in Sources */,
-				6A6742571717546300F55A68 /* _Profile.m in Sources */,
-				6A6742581717546300F55A68 /* Person.m in Sources */,
-				6A6742591717546300F55A68 /* Profile.m in Sources */,
+				6A67426A1717791400F55A68 /* _Person.m in Sources */,
+				6A67426B1717791400F55A68 /* _Profile.m in Sources */,
+				6A67426C1717791400F55A68 /* Person.m in Sources */,
+				6A67426D1717791400F55A68 /* Profile.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -556,6 +556,10 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 8BC670D716454B159B872910 /* Pods.xcconfig */;
 			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SYSTEM_APPS_DIR)/Xcode.app/Contents/Developer/Library/Frameworks\"",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CoreDataInLove/CoreDataInLove-Prefix.pch";
 				INFOPLIST_FILE = "CoreDataInLove/CoreDataInLove-Info.plist";
@@ -568,6 +572,10 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 8BC670D716454B159B872910 /* Pods.xcconfig */;
 			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SYSTEM_APPS_DIR)/Xcode.app/Contents/Developer/Library/Frameworks\"",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CoreDataInLove/CoreDataInLove-Prefix.pch";
 				INFOPLIST_FILE = "CoreDataInLove/CoreDataInLove-Info.plist";
